@@ -1,0 +1,13 @@
+# Code::Blocks build outputs
+bin/
+obj/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Code::Blocks user-specific config files
+*.layout
+*.depend
